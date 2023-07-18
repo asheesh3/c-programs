@@ -1,0 +1,14 @@
+git status          - to check status
+git init            - to initialize git 
+git add --a        -add everything to staging area
+
+git commit -m "message"    - commit files by using the message 
+git log                    -return each committe history
+get add (file name)        -it will add a single file in the staging area
+rm -rf .git                -to remove the git repositery
+
+
+git clone (url)            -to clone the git repositry to our pc
+
+-git clone (url)  (updated name)
+
