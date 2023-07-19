@@ -12,21 +12,23 @@ int global = 5;
 // global and the local can have the same name  
 
 int main(){
-    int sum=6;
-    float pie = 3.14;
-    char c= 'c';
+    // int sum=6;
+    // float pie = 3.14;
+    // char c= 'c';
 
-    int global = 45;
+    // int global = 45;
 
-    bool a= true;
+    // bool a= true;
 
 
 
-    cout << "Sum = \t"<<sum<<endl;
-    cout << "the value of the pie is "<< pie<<endl;
-    cout << "the value of the char is "<< c<<endl;
-    cout << "the value of the bool is "<< a<<endl;
-    cout << "the value of the global is "<< global<<endl;
+    // cout << "Sum = \t"<<sum<<endl;
+    // cout << "the value of the pie is "<< pie<<endl;
+    // cout << "the value of the char is "<< c<<endl;
+    // cout << "the value of the bool is "<< a<<endl;
+    // cout << "the value of the global is "<< global<<endl;
+    double a=2,n=3;
+    cout<<a+n;
 
     return 0;
 }
