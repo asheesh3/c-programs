@@ -12,3 +12,11 @@ git clone (url)            -to clone the git repositry to our pc
 
 -git clone (url)  (updated name)
 
+
+touch error.log           -generated the error log file
+touch .gitignore          -generate the git ignore file 
+
+touch (file name)                   -to create files
+
+
+ 
