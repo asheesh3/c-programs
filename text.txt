@@ -1,6 +1,7 @@
 git status          - to check status
 git init            - to initialize git 
-git add --a        -add everything to staging area
+git add --a           -add everything to staging area
+git add .             -add everything to staging area
 
 git commit -m "message"    - commit files by using the message 
 git log                    -return each committe history
@@ -34,3 +35,10 @@ it will not tell me the blank folder is untracked
 /dir/ for only outer directory
 
 dirname/dir or specific
+
+
+git diff          - tell the difference between working directory and staging area files that are set to be committed
+                  -compare staging area and working directory
+
+git diff --staged    -to compare staging area and the previous commit
+
