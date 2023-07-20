@@ -63,7 +63,7 @@ int main(){
          cout<<"fuck them"<<i<<endl;
             ++i;
         } while (i<=40);
-         
+ 
         
 
 
