@@ -21,13 +21,13 @@ touch (file name)                   -to create files
 
 
  
-write '*'.fileextension in the   ignore file which will ignore the all files having that extension
+write '*'.fileextension in the  ignore file which will ignore the all files having that extension
 
 
 
  
 write dir/ to gitignore to untrack that directory  (dir)=>(dir name)
-
+ 
 
 
 it will not tell me the blank folder is untracked
