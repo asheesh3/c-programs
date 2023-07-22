@@ -42,3 +42,6 @@ git diff          - tell the difference between working directory and staging ar
 
 git diff --staged    -to compare staging area and the previous commit
 
+
+git commit -a -m"direct commit"      -to directly add the files in the commit and skiping the staging area
+
