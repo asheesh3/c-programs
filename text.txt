@@ -45,3 +45,6 @@ git diff --staged    -to compare staging area and the previous commit
 
 git commit -a -m"direct commit"      -to directly add the files in the commit and skiping the staging area
 
+// it will not commit the untracked files
+
+
