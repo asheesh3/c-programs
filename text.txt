@@ -48,3 +48,6 @@ git commit -a -m"direct commit"      -to directly add the files in the commit an
 // it will not commit the untracked files
 
 
+git rm (file name with extension)  - to delete files
+
+git mv (file name) (renamed name) -to rename the fileextension
