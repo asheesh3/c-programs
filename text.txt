@@ -52,5 +52,11 @@ git rm (file name with extension)  - to delete files
 
 git mv (file name) (renamed name) -to rename the file and staged it to the staging area
 
+git rm --cached (filename)         -will not gonna track the file further
+                                   -for git it will be deleted
+
+
+
+
 
                 
