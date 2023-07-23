@@ -50,4 +50,7 @@ git commit -a -m"direct commit"      -to directly add the files in the commit an
 
 git rm (file name with extension)  - to delete files
 
-git mv (file name) (renamed name) -to rename the fileextension
+git mv (file name) (renamed name) -to rename the file and staged it to the staging area
+
+
+                
