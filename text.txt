@@ -59,4 +59,9 @@ git rm --cached (filename)         -will not gonna track the file further
 
 
 
+
+
+
+
+
                 
