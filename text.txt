@@ -5,6 +5,7 @@ git add .             -add everything to staging area
 
 git commit -m "message"    - commit files by using the message 
 git log                    -return each committe history
+git log -p -1           --for showing the last commit
 get add (file name)        -it will add a single file in the staging area
 rm -rf .git                -to remove the git repositery
 
@@ -69,8 +70,11 @@ git push -u origin master    -for pushing the code in remote repostitory but we 
 // --- we have to add ssh key to do that search ssh key generator and the documentation of git hub will be useful for it
 
 
+alias   -- making shortcut for commands
 
+git config --global alias.[shortcut] [full name]
 
+git restore --staged  -- {file name}  -for unstaging the files
 
 
                 
