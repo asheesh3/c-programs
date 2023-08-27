@@ -57,7 +57,16 @@ git rm --cached (filename)         -will not gonna track the file further
 
 
 
+pull                     -means downloading in my computer
+push                     -uploading in remote repository
 
+git remote add origin https://github.com/asheesh3/c-programs.git    -add remote as a  url who name is origin 
+
+git remote -v               - for getting pull  and push urls
+git push -u origin master    -for pushing the code in remote repostitory but we don't have the permission
+
+
+// --- we have to add ssh key to do that search ssh key generator and the documentation of git hub will be useful for it
 
 
 
